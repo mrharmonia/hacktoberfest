@@ -455,7 +455,7 @@ s in Computer Science
 
 #### Name: [BrunoSXS](https://github.com/brunosxs)
 - Brazil
-- Bio: I like turtules.
+- Bio: I like turtles.
 - Github [BrunoSXS](https://github.com/brunosxs)
 
 #### Name: [Alexander Miller](https://github.com/allesmi)
@@ -465,5 +465,5 @@ s in Computer Science
 
 #### Name: [Jose Borunda III](https://github.com/mrharmonia)
 - Place: Apple Valley, CA
-- Bio: Computer Science Major
+- Bio: Computer Science Major, college student.
 - GitHub: [mrharmonia](https://github.com/mrharmonia)
