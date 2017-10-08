@@ -462,3 +462,8 @@ s in Computer Science
 - Place: Salzburg, Austria
 - Bio: Student/Web Developer
 - GitHub: [allesmi](https://github.com/allesmi)
+
+#### Name: [Jose Borunda III](https://github.com/mrharmonia)
+- Place: Apple Valley, CA
+- Bio: Computer Science Major
+- GitHub: [mrharmonia](https://github.com/mrharmonia)
